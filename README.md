@@ -6,7 +6,7 @@ Este proyecto crea un **servidor Modbus TCP simulado** usando `pymodbus`, ideal 
 
 ## Características
 
-Los datos estan pasados de un enfriador industrial Carrier.
+Los datos Modbus son de una documentación de un enfriador industrial Carrier.
 
 - Simula sensores y setpoints con valores aleatorios.
 - Expone registros Modbus reales: Holding Registers, Input Registers y Discrete Inputs.
